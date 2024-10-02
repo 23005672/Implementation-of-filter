@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load the image
-image1 = cv2.imread("red.jpg")
+image1 = cv2.imread("beach.jpeg")
 
 # Convert the image to RGB color space
 image2 = cv2.cvtColor(image1, cv2.COLOR_BGR2RGB)
@@ -47,7 +47,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load the image
-image1 = cv2.imread("Desktop/dipt/Implementation-of-filter/nature.jpg")
+image1 = cv2.imread("beach.jpeg")
 
 # Convert the image to RGB color space
 image2 = cv2.cvtColor(image1, cv2.COLOR_BGR2RGB)
