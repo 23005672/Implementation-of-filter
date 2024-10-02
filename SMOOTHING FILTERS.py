@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load the image
-image1 = cv2.imread("path/to/your/image.jpg")
+image1 = cv2.imread("beach.jpeg")
 
 # Convert the image to grayscale
 image2 = cv2.cvtColor(image1, cv2.COLOR_BGR2GRAY)
@@ -49,7 +49,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load the image
-image1 = cv2.imread("Desktop/dipt/Implementation-of-filter/nature.jpg")
+image1 = cv2.imread("beach.jpeg")
 
 # Convert the image to grayscale
 image2 = cv2.cvtColor(image1, cv2.COLOR_BGR2GRAY)
@@ -89,7 +89,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load the image
-image1 = cv2.imread("Desktop/dipt/Implementation-of-filter/nature.jpg")
+image1 = cv2.imread("beach.jpeg")
 
 # Convert the image to grayscale
 image2 = cv2.cvtColor(image1, cv2.COLOR_BGR2GRAY)
@@ -124,7 +124,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load the image
-image1 = cv2.imread("Desktop/dipt/Implementation-of-filter/nature.jpg")
+image1 = cv2.imread("beach.jpeg")
 
 # Convert the image to grayscale
 image2 = cv2.cvtColor(image1, cv2.COLOR_BGR2GRAY)
